@@ -1,0 +1,5 @@
+name: lora-basic-modem
+
+build:
+  cmake-ext: True
+  kconfig-ext: True
